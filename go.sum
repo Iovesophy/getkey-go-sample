@@ -1,0 +1,4 @@
+github.com/wzshiming/getch v0.0.0-20201023133301-8e758c21cf27 h1:jKLZ5tGpOZRid6GpBbDmP4BiooSF5zDd7Cg9jHCN4Yk=
+github.com/wzshiming/getch v0.0.0-20201023133301-8e758c21cf27/go.mod h1:TYK5eJtSD5cVebob9fE7D3jR1fbRU1EwkoPzbLWsOAk=
+golang.org/x/sys v0.0.0-20210831042530-f4d43177bf5e h1:XMgFehsDnnLGtjvjOfqWSUzt0alpTR1RSEuznObga2c=
+golang.org/x/sys v0.0.0-20210831042530-f4d43177bf5e/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
